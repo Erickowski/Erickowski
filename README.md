@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hi, I'm Erickowski and I'm coding right now! ⚓
 
-<!--
-**Erickowski/Erickowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me 🤖
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on MarinLabs Technologies as __Frontend Developer__.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💚 I'm a __Platzi Master__ formed in Frontend Development.
+
+- 🎓 I'm graduated of __Systems and Communications Engineering__.
+
+- 🌱 I’m currently learning __UI / UX Design__.
+
+- 🤔 I’m looking to become in one of the best developer of México.
+
+- 💼 My portfolio is in: [Erickowski's Portfolio](https://erickowski.github.io/)
+
+- 📫 You can reach me in LinkedIn: [Erick Mata](https://www.linkedin.com/in/erick-mata/)
+
+- 😄 _Believe in yourself_.
+
+- ⚡ _Always progressive, never depressive_.
