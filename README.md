@@ -2,7 +2,7 @@
 
 ## About me 🤖
 
-- 🔭 I’m currently working on MarinLabs Technologies as __Frontend Developer__.
+- 🔭 I’m currently looking for job as __Frontend Developer__.
 
 - 💚 I'm a __Platzi Master__ formed in Frontend Development.
 
