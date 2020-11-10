@@ -2,7 +2,7 @@
 
 ## About me 🤖
 
-- 🔭 I’m currently looking for job as __Frontend Developer__.
+- 🔭 I’m working as __Frontend Developer__ in Intelimétrica.
 
 - 💚 I'm a __Platzi Master__ formed in Frontend Development.
 
