@@ -2,7 +2,7 @@
 
 ## About me 🤖
 
-- 🔭 I’m working as __Frontend Developer__ in Intelimétrica.
+- 🔭 I’m working as __Semi-Senior Frontend Developer__ at Scotiabank.
 
 - 💚 I'm a __Platzi Master__ formed in Frontend Development.
 
