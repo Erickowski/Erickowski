@@ -2,13 +2,11 @@
 
 ## About me 🤖
 
-- 🔭 I’m working as __Semi-Senior Frontend Developer__ at Scotiabank.
+- 🔭 I’m working as __Frontend Engineer__ at GBM.
 
 - 💚 I'm a __Platzi Master__ formed in Frontend Development.
 
 - 🎓 I'm graduated of __Systems and Communications Engineering__.
-
-- 🌱 I’m currently learning __UI / UX Design__.
 
 - 🤔 I’m looking to become in one of the best developer of México.
 
